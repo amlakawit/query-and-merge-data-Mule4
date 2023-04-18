@@ -1,13 +1,13 @@
 mysql:
-  host: "localhost"
-  port: "3306"
-  user: "root"
-  password: "nateyMahder@2022"
-  database:  "Northwind"
+  host: ""
+  port: ""
+  user: ""
+  password: ""
+  database: ""
   
 postgres:
-  username: "postgres"
-  password: "1234"
-  dclass: "org.postgresql.Driver"
-  url:  "jdbc:postgresql://localhost:5432/Northwind"
+  username: ""
+  password: ""
+  dclass: ""
+  url:  ""
   
